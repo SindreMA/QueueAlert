@@ -20,6 +20,13 @@ Deretter er det bare å sjekke om tallet er mindre enn 100
 Hva ja, spill av lyd
 
 
+Meste parten av koden ligger i 
+
+Form1.cs og RegionSelector.cs
+
+resten er bare UI og default ting
+
+
 ![](https://sindrema.com/files/Ve0scbIoHS.png)
 ![image](https://user-images.githubusercontent.com/29127320/202163366-615bbd89-c45b-46b8-ab4f-08e47bac44d4.png)
 
